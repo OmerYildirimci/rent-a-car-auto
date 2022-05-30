@@ -1,0 +1,1 @@
+ViewModel içindeki AppViewModel.cs içerisindeki path değitirmeniz lazım çünkü json verileri data altındaki klasörde bulunuyor
